@@ -23,9 +23,9 @@ A simple **Java console application** that calculates **Simple Interest** 💰 b
 ---
 
 ## 🚀 Getting Started
-
 1. **Clone this repo** ⬇️  
    ```bash
+   
    
    Compile the program 🛠️
 javac SimpleInterest.java
